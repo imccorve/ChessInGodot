@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Board/Piece.gd" type="Script" id=1]
+
+[node name="Piece" type="Node2D" index="0"]
+
+script = ExtResource( 1 )
+json_file = null
+
+[node name="Sprite" type="Sprite" parent="." index="0"]
+
+centered = false
+_sections_unfolded = [ "Offset" ]
+
+

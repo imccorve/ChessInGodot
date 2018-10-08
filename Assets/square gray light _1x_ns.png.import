@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/square gray light _1x_ns.png-b2c8ebdd8bd3b933594d6009c681188e.stex"
+
+[deps]
+
+source_file="res://Assets/square gray light _1x_ns.png"
+source_md5="e7ddeccd1a2fcda570261b6d77df49d8"
+
+dest_files=[ "res://.import/square gray light _1x_ns.png-b2c8ebdd8bd3b933594d6009c681188e.stex" ]
+dest_md5="be1ef1dc7bdfde2f5b932b7d23ceeda7"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

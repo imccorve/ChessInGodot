@@ -1,0 +1,17 @@
+{
+    pawn: {
+        value: 1
+    },
+    knight: {
+        value: 3
+    },
+    bishop: {
+        value: 3
+    },
+    rook: {
+        value: 5
+    },
+    queen: {
+        value: 9
+    }
+}
